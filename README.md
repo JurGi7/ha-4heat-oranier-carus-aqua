@@ -29,6 +29,6 @@ Diese Integration basiert ursprünglich auf der großartigen Arbeit von **@zaube
 
 ## Haftungsausschluss & Lizenz
 
-Dies ist eine unabhängige, von der Community entwickelte Integration. Sie steht in keiner Verbindung zu der firma Oranier oder den Entwicklern der originalen 4Heat-App. Die Nutzung erfolgt auf eigene Gefahr.
+Dies ist eine unabhängige, von der Community entwickelte Integration. Sie steht in keiner Verbindung zu der Firma Oranier oder den Entwicklern der originalen 4Heat-App. Die Nutzung erfolgt auf eigene Gefahr.
 
 Dieses Projekt ist unter den Bedingungen der **MIT-Lizenz** lizenziert – basierend auf der ursprünglichen Lizenz des Upstream-Repositories.
